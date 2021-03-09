@@ -1,2 +1,0 @@
-# PrimeiroCommit
-Atividade TP
